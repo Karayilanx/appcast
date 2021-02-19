@@ -6,7 +6,7 @@
             <title>Version 1.15.0</title>
             <description>desc</description>
             <pubDate>Pazar, 13 Dec 2020 16:45:00</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=io.atmosphere.orderapp" sparkle:version="2.1.13" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=io.atmosphere.orderapp" sparkle:version="2.1.15" sparkle:os="android" />
         </item>
     </channel>
 </rss>
